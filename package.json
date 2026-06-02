@@ -1,0 +1,8 @@
+{
+  "name": "hub-hands-up-novo",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "mkdir -p dist && cp index.html app.js styles.css vercel.json dist/"
+  }
+}
